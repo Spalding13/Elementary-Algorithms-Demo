@@ -1,5 +1,5 @@
 # Elementary-Sorting-Algorithms-Demo
-Showcase for three basic sorting algorithms - Bubble, Selection and Insertion sort. 
+  Showcase for three basic sorting algorithms - Bubble, Selection and Insertion sort. 
 These perform well on nearly sorted data and have better space complexity than more advanced sorting algorithms.
 
 | 	Algorithm	  |	Time complexity (best) |Time complexity (worst) |Space Complexity|
